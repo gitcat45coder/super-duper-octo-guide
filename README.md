@@ -5,7 +5,7 @@
              
        </HEAD>
        <Body>
-       <H1>Hello world of coding.</H1>
+       <H1>Hello world of coding</H1>
        <u><H2>OctoCat</H2></u>
        </BODY>
 </HTML>
